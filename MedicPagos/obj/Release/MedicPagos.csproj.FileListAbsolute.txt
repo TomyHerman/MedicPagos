@@ -1,0 +1,76 @@
+C:\Users\Tomas\Desktop\MedicPagos\MedicPagos\bin\Release\MedicPagos.exe.config
+C:\Users\Tomas\Desktop\MedicPagos\MedicPagos\bin\Release\MedicPagos.exe
+C:\Users\Tomas\Desktop\MedicPagos\MedicPagos\bin\Release\MedicPagos.pdb
+C:\Users\Tomas\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.AgregarEstudio.resources
+C:\Users\Tomas\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.AgregarPaciente.resources
+C:\Users\Tomas\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.PantallaPrincipal.resources
+C:\Users\Tomas\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.Properties.Resources.resources
+C:\Users\Tomas\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.csproj.GenerateResource.Cache
+C:\Users\Tomas\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.exe
+C:\Users\Tomas\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.pdb
+C:\Users\Tomas\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.csprojResolveAssemblyReference.cache
+C:\Users\Tomas\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.AgregarMedico.resources
+C:\Users\Tomas\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.ListaDetalladaOrdenes.resources
+C:\Users\Tomas\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.ListaDetalladaPrepagas.resources
+C:\Users\Tomas\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.Validacion.resources
+C:\Users\therman\Desktop\MedicPagos\MedicPagos\bin\Release\MedicPagos.exe.config
+C:\Users\therman\Desktop\MedicPagos\MedicPagos\bin\Release\MedicPagos.exe
+C:\Users\therman\Desktop\MedicPagos\MedicPagos\bin\Release\MedicPagos.pdb
+C:\Users\therman\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.csprojResolveAssemblyReference.cache
+C:\Users\therman\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.AgregarEstudio.resources
+C:\Users\therman\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.ListaDetalladaOrdenes.resources
+C:\Users\therman\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.ListaDetalladaPrepagas.resources
+C:\Users\therman\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.PantallaPrincipal.resources
+C:\Users\therman\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.Properties.Resources.resources
+C:\Users\therman\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.Validacion.resources
+C:\Users\therman\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.csproj.GenerateResource.Cache
+C:\Users\therman\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.csproj.CoreCompileInputs.cache
+C:\Users\therman\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.exe
+C:\Users\therman\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.pdb
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\bin\Release\MedicPagos.exe.config
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\bin\Release\MedicPagos.exe
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\bin\Release\MedicPagos.pdb
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.AgregarEstudio.resources
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.AgregarMedico.resources
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.AgregarPaciente.resources
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.ListaDetalladaOrdenes.resources
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.ListaDetalladaPrepagas.resources
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.PantallaPrincipal.resources
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.Properties.Resources.resources
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.Validacion.resources
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.exe
+C:\Users\Administrador\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.pdb
+F:\Carpeta Personal\Programas\Programa medico\MedicPagos\MedicPagos\bin\Release\MedicPagos.exe.config
+F:\Carpeta Personal\Programas\Programa medico\MedicPagos\MedicPagos\bin\Release\MedicPagos.exe
+F:\Carpeta Personal\Programas\Programa medico\MedicPagos\MedicPagos\bin\Release\MedicPagos.pdb
+F:\Carpeta Personal\Programas\Programa medico\MedicPagos\MedicPagos\obj\Release\MedicPagos.AgregarEstudio.resources
+F:\Carpeta Personal\Programas\Programa medico\MedicPagos\MedicPagos\obj\Release\MedicPagos.ListaDetalladaOrdenes.resources
+F:\Carpeta Personal\Programas\Programa medico\MedicPagos\MedicPagos\obj\Release\MedicPagos.ListaDetalladaPrepagas.resources
+F:\Carpeta Personal\Programas\Programa medico\MedicPagos\MedicPagos\obj\Release\MedicPagos.PantallaPrincipal.resources
+F:\Carpeta Personal\Programas\Programa medico\MedicPagos\MedicPagos\obj\Release\MedicPagos.Properties.Resources.resources
+F:\Carpeta Personal\Programas\Programa medico\MedicPagos\MedicPagos\obj\Release\MedicPagos.Validacion.resources
+F:\Carpeta Personal\Programas\Programa medico\MedicPagos\MedicPagos\obj\Release\MedicPagos.csproj.GenerateResource.cache
+F:\Carpeta Personal\Programas\Programa medico\MedicPagos\MedicPagos\obj\Release\MedicPagos.csproj.CoreCompileInputs.cache
+F:\Carpeta Personal\Programas\Programa medico\MedicPagos\MedicPagos\obj\Release\MedicPagos.exe
+F:\Carpeta Personal\Programas\Programa medico\MedicPagos\MedicPagos\obj\Release\MedicPagos.pdb
+C:\Users\tomy_\Desktop\MedicPagos\MedicPagos\bin\Release\MedicPagos.exe.config
+C:\Users\tomy_\Desktop\MedicPagos\MedicPagos\bin\Release\MedicPagos.exe
+C:\Users\tomy_\Desktop\MedicPagos\MedicPagos\bin\Release\MedicPagos.pdb
+C:\Users\tomy_\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.csprojAssemblyReference.cache
+C:\Users\tomy_\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.AgregarEstudio.resources
+C:\Users\tomy_\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.AgregarModificarMedico.resources
+C:\Users\tomy_\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.ListaDetalladaOrdenes.resources
+C:\Users\tomy_\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.ListaDetalladaPrepagas.resources
+C:\Users\tomy_\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.PantallaPrincipal.resources
+C:\Users\tomy_\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.Properties.Resources.resources
+C:\Users\tomy_\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.Validacion.resources
+C:\Users\tomy_\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.csproj.GenerateResource.cache
+C:\Users\tomy_\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.csproj.CoreCompileInputs.cache
+C:\Users\tomy_\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.exe
+C:\Users\tomy_\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.pdb
+F:\Carpeta Personal\Programas\Programa medico\MedicPagos\MedicPagos\obj\Release\MedicPagos.csprojAssemblyReference.cache
+F:\Carpeta Personal\Programas\Programa medico\MedicPagos\MedicPagos\obj\Release\MedicPagos.AgregarModificarMedico.resources
+C:\Users\therman\Desktop\MedicPagos\MedicPagos\obj\Release\MedicPagos.AgregarModificarMedico.resources
